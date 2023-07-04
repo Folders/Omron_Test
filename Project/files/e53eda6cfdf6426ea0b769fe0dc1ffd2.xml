@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IagResources>
+  <Resources Type="Strings">
+    <Resource Name="String0" ID="2ac7302c-803c-460c-92f2-f3513c8e3d92">
+      <Localisation Language="en-US" Translation="4" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="String1" ID="42d4dd48-7b74-417d-8966-f8a3b4c81b9a">
+      <Localisation Language="en-US" Translation="8" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="String2" ID="b9c35ed7-216b-4588-8c4c-199058544b8a">
+      <Localisation Language="en-US" Translation="3" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="String4" ID="91db17e9-40f3-4479-96d7-1e095883498e">
+      <Localisation Language="en-US" Translation="SD" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="String6" ID="52745495-0c0f-4497-9b4b-4d98976b1af3">
+      <Localisation Language="en-US" Translation="FTP" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="String7" ID="f9dc6cc6-add1-4990-b715-0622c0fed77b">
+      <Localisation Language="en-US" Translation="Refresh" Default="True" />
+      <Localisation Language="fr-FR" Translation="Rafraichir" />
+      <Localisation Language="de-DE" Translation="Aktualisierung" />
+      <Localisation Language="it-IT" Translation="Aggiorna" />
+      <Localisation Language="es-ES" Translation="Actualizar" />
+    </Resource>
+    <Resource Name="String8" ID="96185373-b1ee-44f7-9f10-cebb150497c6">
+      <Localisation Language="en-US" Translation="File Manager V3.7" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="String13" ID="ba2377d5-6afe-4c5f-8930-d4a5d7bd5cab">
+      <Localisation Language="en-US" Translation="USB1" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="String14" ID="8985b2db-bda7-44fc-91ae-70f6314438a4">
+      <Localisation Language="en-US" Translation="USB2" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="SFile" ID="cb845b90-2c36-4270-92ae-a4544607e6ac">
+      <Localisation Language="en-US" Translation="File(s)" Default="True" />
+      <Localisation Language="fr-FR" Translation="Fichier(s)" />
+      <Localisation Language="de-DE" Translation="Datei" />
+      <Localisation Language="it-IT" Translation="File(s)" />
+      <Localisation Language="es-ES" Translation="Fichero(s)" />
+    </Resource>
+    <Resource Name="Sreplaced" ID="c8838786-897e-42cd-b386-bcdc76a4ea3b">
+      <Localisation Language="en-US" Translation="replaced" Default="True" />
+      <Localisation Language="fr-FR" Translation="remplacé" />
+      <Localisation Language="de-DE" Translation="ersetzt" />
+      <Localisation Language="it-IT" Translation="sostituito" />
+      <Localisation Language="es-ES" Translation="reemplazado" />
+    </Resource>
+    <Resource Name="Screated" ID="21a4740f-ca66-4a88-bb30-8049e904b54c">
+      <Localisation Language="en-US" Translation="created" Default="True" />
+      <Localisation Language="fr-FR" Translation="créé" />
+      <Localisation Language="de-DE" Translation="erstellt" />
+      <Localisation Language="it-IT" Translation="creato" />
+      <Localisation Language="es-ES" Translation="Creado" />
+    </Resource>
+    <Resource Name="Soverwrite" ID="bf30330e-adc8-4076-a78a-5f1b2de35d3c">
+      <Localisation Language="en-US" Translation="File already exist, rewrite ? (NO keep both files, CANCEL abort the operation" Default="True" />
+      <Localisation Language="fr-FR" Translation="Fichier déjà existant,  écraser ? (NO conserve les deux fichiers, CANCEL annule l'opération)" />
+      <Localisation Language="de-DE" Translation="Datei bereits vorhanden, überschreiben? (NO behält beide Dateien bei, CANCEL bricht den Vorgang ab)" />
+      <Localisation Language="it-IT" Translation="File già esistente, sovrascriverlo? (NO mantiene entrambi i file, CANCEL annulla l'operazione)" />
+      <Localisation Language="es-ES" Translation="Archivo ya existente, ¿sobrescribir? (NO conserva ambos archivos, CANCELAR cancela la operación)" />
+    </Resource>
+    <Resource Name="Sdeleted" ID="656ecf78-6254-4c5d-8e8c-31d2b69eb2dd">
+      <Localisation Language="en-US" Translation="deleted" Default="True" />
+      <Localisation Language="fr-FR" Translation="supprimé(s)" />
+      <Localisation Language="de-DE" Translation="gelöscht" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="SDeleteAllFilesFrom" ID="b91ffdbe-8bad-4ea3-a5c8-00b1e692ab50">
+      <Localisation Language="en-US" Translation="Delete all file from" Default="True" />
+      <Localisation Language="fr-FR" Translation="Supprimer tous les fichiers de" />
+      <Localisation Language="de-DE" Translation="Alle Daten löschen aus" />
+      <Localisation Language="it-IT" Translation="Elimina tutti i file da" />
+      <Localisation Language="es-ES" Translation="Eliminar todos los archivos de" />
+    </Resource>
+    <Resource Name="SDeletingAllFiles" ID="00d0fde2-7c9e-4a05-acfa-a5686b97b213">
+      <Localisation Language="en-US" Translation="Deleting all files" Default="True" />
+      <Localisation Language="fr-FR" Translation="Suppression de tous les fichiers" />
+      <Localisation Language="de-DE" Translation="Alle Daten löschen" />
+      <Localisation Language="it-IT" Translation="Elimina tutti i file " />
+      <Localisation Language="es-ES" Translation="Eliminar todos los archivos" />
+    </Resource>
+    <Resource Name="SPathError" ID="40ed4b8a-a0c1-4e45-9940-3314b165e950">
+      <Localisation Language="en-US" Translation="Incorrect path" Default="True" />
+      <Localisation Language="fr-FR" Translation="Chemin inexistant" />
+      <Localisation Language="de-DE" Translation="Nicht existierender Pfad" />
+      <Localisation Language="it-IT" Translation="Percorso inesistente" />
+      <Localisation Language="es-ES" Translation="Ruta inexistente" />
+    </Resource>
+    <Resource Name="String12" ID="0eea4427-5451-4e8f-ad81-5c65c4b2bb79">
+      <Localisation Language="en-US" Translation="7" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="SCopyAllTo" ID="a99498d9-d7e0-4f5a-b8f9-d6a7f8be5ebc">
+      <Localisation Language="en-US" Translation="Copy all files to " Default="True" />
+      <Localisation Language="fr-FR" Translation="Copier tous les fichiers vers " />
+      <Localisation Language="de-DE" Translation="Alle Dateien kopieren -&gt; Ziel" />
+      <Localisation Language="it-IT" Translation="Copia tutti i file in" />
+      <Localisation Language="es-ES" Translation="Copiar todos los archivos a" />
+    </Resource>
+    <Resource Name="SDelete" ID="f2bc5f3b-2cb9-45d7-a998-5634e77bdc27">
+      <Localisation Language="en-US" Translation="Delete " Default="True" />
+      <Localisation Language="fr-FR" Translation="Supprimer" />
+      <Localisation Language="de-DE" Translation="löschen" />
+      <Localisation Language="it-IT" Translation="Rimuovere" />
+      <Localisation Language="es-ES" Translation="Eliminar" />
+    </Resource>
+    <Resource Name="String16" ID="d27b1962-6675-4709-9872-c91f02dfab1c">
+      <Localisation Language="en-US" Translation="Copy selected File" Default="True" />
+      <Localisation Language="fr-FR" Translation="Copie fichier sélectionné" />
+      <Localisation Language="de-DE" Translation="Ausgewählte Datei kopieren" />
+      <Localisation Language="it-IT" Translation="Copia il file selezionato" />
+      <Localisation Language="es-ES" Translation="Copiar archivo seleccionado" />
+    </Resource>
+    <Resource Name="String17" ID="a331a25d-0255-45f4-8458-df951f976026">
+      <Localisation Language="en-US" Translation="Copy all Files" Default="True" />
+      <Localisation Language="fr-FR" Translation="Copie tous les fichiers" />
+      <Localisation Language="de-DE" Translation="Alle Dateien kopieren" />
+      <Localisation Language="it-IT" Translation="Copia tutti i file" />
+      <Localisation Language="es-ES" Translation="Copiar todos los archivos" />
+    </Resource>
+    <Resource Name="String18" ID="a0c360a8-4eef-4df0-ac1c-3b8940af3fda">
+      <Localisation Language="en-US" Translation="Copy Dir (+all files)" Default="True" />
+      <Localisation Language="fr-FR" Translation="Copie Rep (+fichiers)" />
+      <Localisation Language="de-DE" Translation="Alle kopieren (Verzeichnis + Datei)" />
+      <Localisation Language="it-IT" Translation="Copia tutto (dir + file)" />
+      <Localisation Language="es-ES" Translation="Copiar todo (dir + archivo)" />
+    </Resource>
+    <Resource Name="String19" ID="659f366c-abc6-43bd-b895-627fad866528">
+      <Localisation Language="en-US" Translation="EJECT" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="NoFileSelected" ID="3d4866b4-57d0-406a-8957-593a5a20a84a">
+      <Localisation Language="en-US" Translation="No file selected" Default="True" />
+      <Localisation Language="fr-FR" Translation="Aucun fichier sélectionné" />
+      <Localisation Language="de-DE" Translation="Keine Datei ausgewählt" />
+      <Localisation Language="it-IT" Translation="Nessun file selezionato" />
+      <Localisation Language="es-ES" Translation="Ningún archivo seleccionado" />
+    </Resource>
+    <Resource Name="Root_notDeleted" ID="12fc2b2b-15cc-4964-b8cd-3bed0f888873">
+      <Localisation Language="en-US" Translation="Root cannot be deleted" Default="True" />
+      <Localisation Language="fr-FR" Translation="Le répertoire racine ne peut pas être supprimé" />
+      <Localisation Language="de-DE" Translation="Das Stammverzeichnis kann nicht gelöscht werden" />
+      <Localisation Language="it-IT" Translation="La directory principale non può essere eliminata" />
+      <Localisation Language="es-ES" Translation="El directorio raíz no se puede eliminar" />
+    </Resource>
+    <Resource Name="File_SDeleteAllFilesAndDir" ID="f3dd1adb-ced6-4e69-9795-1e2fa62063eb">
+      <Localisation Language="en-US" Translation="Delete directory" Default="True" />
+      <Localisation Language="fr-FR" Translation="Supprimer le répertoire" />
+      <Localisation Language="de-DE" Translation="Verzeichnis löschen" />
+      <Localisation Language="it-IT" Translation="Elimina directory" />
+      <Localisation Language="es-ES" Translation="Eliminar directorio" />
+    </Resource>
+    <Resource Name="Delete" ID="4849e449-6210-4694-a4f5-7c7684031232">
+      <Localisation Language="en-US" Translation="Del" Default="True" />
+      <Localisation Language="fr-FR" Translation="Sup" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+    <Resource Name="DirCreate" ID="40479c1e-2f03-431a-b0e2-0d2f09ba38fd">
+      <Localisation Language="en-US" Translation="Directory creation only in the root" Default="True" />
+      <Localisation Language="fr-FR" Translation="Création de répertoire uniquement à la racine" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+    </Resource>
+  </Resources>
+  <Resources Type="FontFamilies">
+    <Resource Name="FontFamily" ID="ffd74e69-00a5-425d-91ca-2c20c56afdaa">
+      <Localisation Language="en-US" Translation="Segoe UI" Default="True" />
+      <Localisation Language="fr-FR" Translation="Segoe UI" />
+      <Localisation Language="de-DE" Translation="Segoe UI" />
+      <Localisation Language="it-IT" Translation="Segoe UI" />
+      <Localisation Language="es-ES" Translation="Segoe UI" />
+    </Resource>
+    <Resource Name="FontFamily0" ID="d2ffc251-074e-4a56-9ec3-d6e16341726b">
+      <Localisation Language="en-US" Translation="Webdings" Default="True" />
+      <Localisation Language="fr-FR" Translation="Webdings" />
+      <Localisation Language="de-DE" Translation="Segoe UI" />
+      <Localisation Language="it-IT" Translation="Segoe UI" />
+      <Localisation Language="es-ES" Translation="Segoe UI" />
+    </Resource>
+    <Resource Name="FontFamily1" ID="ce3c355f-0966-40de-a645-263f67df39a5">
+      <Localisation Language="en-US" Translation="Webdings" Default="True" />
+      <Localisation Language="fr-FR" Translation="Webdings" />
+      <Localisation Language="de-DE" Translation="Segoe UI" />
+      <Localisation Language="it-IT" Translation="Segoe UI" />
+      <Localisation Language="es-ES" Translation="Segoe UI" />
+    </Resource>
+    <Resource Name="FontFamily2" ID="2f86118c-6608-4173-9491-7b15398f9a98">
+      <Localisation Language="en-US" Translation="Webdings" Default="True" />
+      <Localisation Language="fr-FR" Translation="Webdings" />
+      <Localisation Language="de-DE" Translation="Segoe UI" />
+      <Localisation Language="it-IT" Translation="Segoe UI" />
+      <Localisation Language="es-ES" Translation="Segoe UI" />
+    </Resource>
+    <Resource Name="FontFamily3" ID="2b977a31-0a7a-4254-b087-d511e8fa0917">
+      <Localisation Language="en-US" Translation="Webdings" Default="True" />
+      <Localisation Language="fr-FR" Translation="Webdings" />
+      <Localisation Language="de-DE" Translation="Segoe UI" />
+      <Localisation Language="it-IT" Translation="Segoe UI" />
+      <Localisation Language="es-ES" Translation="Segoe UI" />
+    </Resource>
+    <Resource Name="FontFamily4" ID="79333888-364f-4ea7-bb41-8251e956bbf8">
+      <Localisation Language="en-US" Translation="Webdings" Default="True" />
+      <Localisation Language="fr-FR" Translation="Webdings" />
+      <Localisation Language="de-DE" Translation="Segoe UI" />
+      <Localisation Language="it-IT" Translation="Segoe UI" />
+      <Localisation Language="es-ES" Translation="Segoe UI" />
+    </Resource>
+    <Resource Name="FontFamily5" ID="596db428-5211-4f80-b757-3edba3b12efd">
+      <Localisation Language="en-US" Translation="Webdings" Default="True" />
+      <Localisation Language="fr-FR" Translation="Webdings" />
+      <Localisation Language="de-DE" Translation="Segoe UI" />
+      <Localisation Language="it-IT" Translation="Segoe UI" />
+      <Localisation Language="es-ES" Translation="Segoe UI" />
+    </Resource>
+  </Resources>
+  <Resources Type="FontSizes">
+    <Resource Name="FontSize" ID="cb2d39aa-917c-4ec2-a283-1a0192853f46">
+      <Localisation Language="en-US" Translation="12" Default="True" />
+      <Localisation Language="fr-FR" Translation="12" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize0" ID="cddb827e-202b-493b-b9df-5f57c7097606">
+      <Localisation Language="en-US" Translation="14" Default="True" />
+      <Localisation Language="fr-FR" Translation="14" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize1" ID="47f74815-cf4a-440b-85c5-549b5095833f">
+      <Localisation Language="en-US" Translation="14" Default="True" />
+      <Localisation Language="fr-FR" Translation="14" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize2" ID="a3b3395a-de72-4238-bf71-51ca10dec299">
+      <Localisation Language="en-US" Translation="9" Default="True" />
+      <Localisation Language="fr-FR" Translation="9" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize3" ID="852a9734-2da2-46aa-9b7a-9700bacb4260">
+      <Localisation Language="en-US" Translation="9" Default="True" />
+      <Localisation Language="fr-FR" Translation="8" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize4" ID="9447b4ce-3bca-40b7-bf13-bfc913fa4896">
+      <Localisation Language="en-US" Translation="30" Default="True" />
+      <Localisation Language="fr-FR" Translation="30" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize5" ID="14e8b7c5-1195-4681-8886-6989b330dbf3">
+      <Localisation Language="en-US" Translation="30" Default="True" />
+      <Localisation Language="fr-FR" Translation="30" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize6" ID="0d2f4556-4248-4fa4-836f-85d3dc90ba00">
+      <Localisation Language="en-US" Translation="10" Default="True" />
+      <Localisation Language="fr-FR" Translation="10" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize7" ID="62c2dc8b-c082-49ca-963c-02d0e11dec8a">
+      <Localisation Language="en-US" Translation="10" Default="True" />
+      <Localisation Language="fr-FR" Translation="10" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize8" ID="5c7ca514-0022-43b6-8017-edddeac7f8ab">
+      <Localisation Language="en-US" Translation="30" Default="True" />
+      <Localisation Language="fr-FR" Translation="30" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize9" ID="7e4c98a0-b098-4efc-a624-ced1cb210103">
+      <Localisation Language="en-US" Translation="30" Default="True" />
+      <Localisation Language="fr-FR" Translation="30" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize10" ID="5100059f-edbf-48c8-b699-51663cb6d54b">
+      <Localisation Language="en-US" Translation="10" Default="True" />
+      <Localisation Language="fr-FR" Translation="10" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize11" ID="901440da-9bea-40f6-864d-53dea99dc333">
+      <Localisation Language="en-US" Translation="10" Default="True" />
+      <Localisation Language="fr-FR" Translation="10" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize12" ID="8e9f4b2d-40c6-4e47-b0c8-edc17d0e70b7">
+      <Localisation Language="en-US" Translation="30" Default="True" />
+      <Localisation Language="fr-FR" Translation="30" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize13" ID="7e8ca610-fd02-4287-976b-01fb52561c41">
+      <Localisation Language="en-US" Translation="30" Default="True" />
+      <Localisation Language="fr-FR" Translation="30" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize14" ID="8203efce-1fb6-4853-971b-ac746d36bc7c">
+      <Localisation Language="en-US" Translation="10" Default="True" />
+      <Localisation Language="fr-FR" Translation="10" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize15" ID="f5bf3e58-a123-40d0-8c1e-5863f861e968">
+      <Localisation Language="en-US" Translation="8" Default="True" />
+      <Localisation Language="fr-FR" Translation="8" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize16" ID="5dba529d-e790-4352-bb78-9808b1f26e2c">
+      <Localisation Language="en-US" Translation="8" Default="True" />
+      <Localisation Language="fr-FR" Translation="8" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize17" ID="b186cc7c-9e75-407c-a427-a02690e52091">
+      <Localisation Language="en-US" Translation="8" Default="True" />
+      <Localisation Language="fr-FR" Translation="8" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize18" ID="6a42de44-b027-442b-95ac-556790b504d1">
+      <Localisation Language="en-US" Translation="8" Default="True" />
+      <Localisation Language="fr-FR" Translation="8" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize19" ID="2df864cf-6c9d-45e8-be12-92910e64a984">
+      <Localisation Language="en-US" Translation="8" Default="True" />
+      <Localisation Language="fr-FR" Translation="8" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize20" ID="cb3faaa5-e7bd-4dfb-bece-0f2d920ef526">
+      <Localisation Language="en-US" Translation="8" Default="True" />
+      <Localisation Language="fr-FR" Translation="8" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+    <Resource Name="FontSize21" ID="a1546170-4212-42a4-8816-9a5c1fa548a9">
+      <Localisation Language="en-US" Translation="10" Default="True" />
+      <Localisation Language="fr-FR" Translation="10" />
+      <Localisation Language="de-DE" Translation="12" />
+      <Localisation Language="it-IT" Translation="12" />
+      <Localisation Language="es-ES" Translation="12" />
+    </Resource>
+  </Resources>
+  <Resources Type="FontStyles">
+    <Resource Name="FontStyle" ID="52e6c51d-13ed-46ac-af2d-ffb8e1f42d31">
+      <Localisation Language="en-US" Translation="Normal" Default="True" />
+      <Localisation Language="fr-FR" Translation="Normal" />
+      <Localisation Language="de-DE" Translation="Normal" />
+      <Localisation Language="it-IT" Translation="Normal" />
+      <Localisation Language="es-ES" Translation="Normal" />
+    </Resource>
+  </Resources>
+</IagResources>

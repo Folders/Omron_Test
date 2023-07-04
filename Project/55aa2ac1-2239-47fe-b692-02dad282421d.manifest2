@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="Test HMI" id="55aa2ac1-2239-47fe-b692-02dad282421d" trackingId="8431d72d-9602-4802-9b2a-3c422e5636da" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="HMI" />
+      <ApplicationFeature name="NA5-15W101☐-V1Version:1.17" />
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="SetUnit NX102-1000 Ver. 1.48" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>

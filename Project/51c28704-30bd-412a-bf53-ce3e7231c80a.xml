@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <GeneralSettingsData TaskExecutionCondition="2000" ExecutionPriority="4" CycleTimeOverDetection="Warning" TimeOutValue="10000" VariableAccessTimeRatio="3">
+    <ExecutionConditionVariable VariableName="" Condition="" Constant="" />
+    <ExecutionConditionCJUnit ExternalInputUnit="">
+      <ExecutionConditionInterruptionUnit UnitNumber="" InputContact="" EdgeDetection="" />
+      <ExecutionConditionSiouCpuUnit CJUnitTaskNo="" />
+    </ExecutionConditionCJUnit>
+  </GeneralSettingsData>
+  <Programs>
+    <AssociatedProgramData ProgramName="HMI_Test" InstanceName="HMI_Test" IniFileTrackingId="6d8d9462e63a41a194bd8f42f6b8ff6e" StartupSetting="TRUE" SequenceNumber="1" IsDebugProgram="false" />
+  </Programs>
+  <RefreshUnitIds>
+    <RefreshUnitId RefreshUnitId="1b8ae03d-ea09-4b10-a081-3b1305fa30a6" />
+    <RefreshUnitId RefreshUnitId="749b9c65-4e2a-4931-8e41-20fd66b2c90a" />
+    <RefreshUnitId RefreshUnitId="f91660b4-9097-4aa5-b516-7a99000729bd" />
+  </RefreshUnitIds>
+  <TaskInterfaceVariables version="1" />
+</data>

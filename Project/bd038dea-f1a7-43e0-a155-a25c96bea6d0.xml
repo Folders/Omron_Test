@@ -1,0 +1,19 @@
+<CodeEditorModel xmlns="http://schemas.datacontract.org/2004/07/Omron.Cxap.Modules.DeviceHmi.CodeEditor.Core" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><CodingLanguageName>VBNET</CodingLanguageName><HiddenFooter>&#xD;
+End Class</HiddenFooter><HiddenHeader>Partial Public Class Test_Struct&#xD;
+</HiddenHeader><SerialData i:nil="true"/><SerialDeviceHmiId i:nil="true"/><SerialScaleData i:nil="true"/><Text>'Code behind Page - Add local subroutines for the page.&#xD;
+&#xD;
+Sub Test_DynStruc&#xD;
+	&#xD;
+	Dim tmp As Object = Rcp&#xD;
+&#xD;
+	Dim myType As Type = tmp.GetType&#xD;
+	&#xD;
+	TextBox0.Text = tmp.ToString + Environment.NewLine + myType.ToString + Environment.NewLine + Environment.NewLine&#xD;
+	&#xD;
+	For Each myField As Reflection.FieldInfo In myType.GetFields&#xD;
+		TextBox0.Text = TextBox0.Text + myField.Name &amp; " = " &amp;	myField.GetValue(myField)&#xD;
+	Next&#xD;
+	&#xD;
+&#xD;
+End Sub&#xD;
+</Text></CodeEditorModel>

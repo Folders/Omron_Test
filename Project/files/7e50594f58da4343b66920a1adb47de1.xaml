@@ -1,0 +1,23 @@
+<Path Fill="#FF000000" Stroke="{x:Null}" StrokeThickness="1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Height="449.8450050354" Width="448.119076937437">
+    <Path.Data>
+        <PathGeometry FillRule="EvenOdd">
+            <PathFigure StartPoint="48.5092289149761,353.3450050354" IsClosed="True">
+                <LineSegment Point="399.599240511656,353.3450050354"/>
+                <BezierSegment Point1="426.899228304624,353.3450050354" Point2="447.599240511656,374.945011138916" Point3="447.599240511656,401.355014801025"/>
+                <BezierSegment Point1="447.599240511656,427.744998931884" Point2="425.99923440814,449.3450050354" Point3="399.609219759703,449.3450050354"/>
+                <LineSegment Point="48.5092289149761,449.3450050354"/>
+                <BezierSegment Point1="22.1092350184918,449.3450050354" Point2="0.510934407822788,427.744998931884" Point3="0.519231528043747,401.325016021728"/>
+                <BezierSegment Point1="0.519234407693148,374.935001373291" Point2="22.1192352473736,353.3450050354" Point3="48.5092289149761,353.3450050354"/>
+            </PathFigure>
+            <PathFigure StartPoint="224.504239290953,0.499999999999989" IsClosed="True">
+                <BezierSegment Point1="237.441739290953,0.50000381469729" Point2="250.379239290953,5.65500259399419" Point3="259.879239290953,15.9650001525879"/>
+                <LineSegment Point="434.979245394468,208.065006256103"/>
+                <BezierSegment Point1="463.099240511656,238.815006256103" Point2="441.229245394468,288.445011138916" Point3="399.609219759703,288.445011138916"/>
+                <LineSegment Point="48.5092289149761,288.445011138916"/>
+                <BezierSegment Point1="6.89223453402519,288.445011138916" Point2="-14.9807651340961,239.545017242431" Point3="13.13923189044,208.945011138916"/>
+                <LineSegment Point="189.129239290953,15.9650001525879"/>
+                <BezierSegment Point1="198.629239290953,5.65500259399419" Point2="211.566739290953,0.50000381469729" Point3="224.504239290953,0.499999999999989"/>
+            </PathFigure>
+        </PathGeometry>
+    </Path.Data>
+</Path>

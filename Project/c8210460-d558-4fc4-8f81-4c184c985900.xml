@@ -1,0 +1,25 @@
+<CodeEditorModel xmlns="http://schemas.datacontract.org/2004/07/Omron.Cxap.Modules.DeviceHmi.CodeEditor.Core" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><CodingLanguageName>VBNET</CodingLanguageName><HiddenFooter>&#xD;
+End Module</HiddenFooter><HiddenHeader>Public Module S_Startup&#xD;
+</HiddenHeader><SerialData/><SerialDeviceHmiId/><SerialScaleData/><Text>'Add global subroutines&#xD;
+&#xD;
+Sub CheckPath_Startup&#xD;
+	&#xD;
+	' Check SD path&#xD;
+	SD_PathS_Startup = Check("\SDCard")&#xD;
+	USB1_PathS_Startup = Check("\USBDisk")&#xD;
+	USB2_PathS_Startup = Check("\USBDisk2")&#xD;
+	&#xD;
+End Sub&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+Function Check(path As String) As Boolean&#xD;
+	Return System.IO.Directory.Exists(path)&#xD;
+End Function&#xD;
+&#xD;
+&#xD;
+Sub Machine_Def&#xD;
+	&#xD;
+End Sub&#xD;
+</Text></CodeEditorModel>

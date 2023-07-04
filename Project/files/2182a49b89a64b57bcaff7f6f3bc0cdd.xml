@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTypesManifest>
+  <DataType>
+    <Id>79bc12cc-22ed-469e-a508-09aa67c02233</Id>
+    <Namespace></Namespace>
+  </DataType>
+  <DataType>
+    <Id>65cda11f-123e-45fa-b274-e6d51f09c18b</Id>
+    <Namespace>NX</Namespace>
+  </DataType>
+  <DataType>
+    <Id>b7b38f6f-3202-4b6e-b5fa-c73b3948d94b</Id>
+    <Namespace>NJ</Namespace>
+  </DataType>
+</DataTypesManifest>

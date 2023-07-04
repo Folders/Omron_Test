@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IagResources>
+  <Resources Type="Strings">
+    <Resource Name="String0" ID="50d993b1-0736-48bc-8051-10167865b9f6">
+      <Localisation Language="en-US" Translation="4" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="String1" ID="45553e67-7148-4410-8f6d-1adca40eabdd">
+      <Localisation Language="en-US" Translation="8" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="String2" ID="0d1bb4e3-8d00-45f7-a6f4-c69a5d5a110c">
+      <Localisation Language="en-US" Translation="3" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="String4" ID="eae21940-c9c2-47e7-bd37-68818f976b50">
+      <Localisation Language="en-US" Translation="SD" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="String6" ID="6f8a4996-db9d-4f4c-9e5f-044fbf0b6362">
+      <Localisation Language="en-US" Translation="FTP" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="String7" ID="7e05a5a4-6f27-4a40-a503-cf43f1fc8737">
+      <Localisation Language="en-US" Translation="Refresh" Default="True" />
+      <Localisation Language="fr-FR" Translation="Rafraichir" />
+    </Resource>
+    <Resource Name="String8" ID="5f265dac-d0b7-4def-9a56-34ed5716c348">
+      <Localisation Language="en-US" Translation="File Manager JP V3.2" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="String13" ID="ded4d00c-74e7-413e-adc9-6dca9317595f">
+      <Localisation Language="en-US" Translation="USB1" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="String14" ID="5bbf09f3-9b28-4b38-91fc-9c052164b1fa">
+      <Localisation Language="en-US" Translation="USB2" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="SFile" ID="e56670b8-9100-49ed-9446-7af517d1fd4d">
+      <Localisation Language="en-US" Translation="File(s)" Default="True" />
+      <Localisation Language="fr-FR" Translation="Fichier(s)" />
+    </Resource>
+    <Resource Name="Sreplaced" ID="99e5173f-9932-44e0-b023-5c994352f24c">
+      <Localisation Language="en-US" Translation="replaced" Default="True" />
+      <Localisation Language="fr-FR" Translation="remplacé" />
+    </Resource>
+    <Resource Name="Screated" ID="d8a7ea7f-d5a4-44cd-b74f-64c1925ba2c1">
+      <Localisation Language="en-US" Translation="created" Default="True" />
+      <Localisation Language="fr-FR" Translation="créé" />
+    </Resource>
+    <Resource Name="Soverwrite" ID="1a5e6b95-fa34-4e3d-90bd-49b246c39010">
+      <Localisation Language="en-US" Translation="File already exist, rewrite ? (NO keep both files, CANCEL abort the operation" Default="True" />
+      <Localisation Language="fr-FR" Translation="Fichier déjà existant,  écraser ? (NO conserve les deux fichiers, CANCEL annule l'opération)" />
+    </Resource>
+    <Resource Name="SDeleteAllFilesFrom" ID="b1ebda5e-4a7b-47d2-b93e-f3d2c52b0974">
+      <Localisation Language="en-US" Translation="Delete all file from" Default="True" />
+      <Localisation Language="fr-FR" Translation="Supprimer tous les fichiers de" />
+    </Resource>
+    <Resource Name="SDeletingAllFiles" ID="382b1b90-c5b6-49d3-91bd-00b6d3c200c6">
+      <Localisation Language="en-US" Translation="Deleting all files" Default="True" />
+      <Localisation Language="fr-FR" Translation="Suppression de tous les fichiers" />
+    </Resource>
+    <Resource Name="SPathError" ID="fde7308b-4618-47ad-a4e9-08f4b5d7f239">
+      <Localisation Language="en-US" Translation="Incorrect path" Default="True" />
+      <Localisation Language="fr-FR" Translation="Chemin inexistant" />
+    </Resource>
+    <Resource Name="String12" ID="fac9789e-f667-4dce-86c1-4b4e96d7a40e">
+      <Localisation Language="en-US" Translation="7" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="SCopyAllTo" ID="5b45ccd4-31e1-4509-b4cf-dcdabccd5442">
+      <Localisation Language="en-US" Translation="Copy all files to " Default="True" />
+      <Localisation Language="fr-FR" Translation="Copier tous les fichiers vers " />
+    </Resource>
+    <Resource Name="SDelete" ID="8303848a-681f-4312-b322-2caacf04494e">
+      <Localisation Language="en-US" Translation="Delete " Default="True" />
+      <Localisation Language="fr-FR" Translation="Supprimer" />
+    </Resource>
+    <Resource Name="String16" ID="46d0be68-f79b-4396-91ae-22114e41088c">
+      <Localisation Language="en-US" Translation="Selected File" Default="True" />
+      <Localisation Language="fr-FR" Translation="Fichier sélectionné" />
+    </Resource>
+    <Resource Name="String17" ID="7c2de451-12df-454d-b59a-669eb1a4ebeb">
+      <Localisation Language="en-US" Translation="All Files" Default="True" />
+      <Localisation Language="fr-FR" Translation="Tous les fichiers" />
+    </Resource>
+    <Resource Name="String18" ID="2d29432a-a9f2-4ae9-89a0-586106f14db5">
+      <Localisation Language="en-US" Translation="All (Dir + files)" Default="True" />
+      <Localisation Language="fr-FR" Translation="Tout (rep +fichier)" />
+    </Resource>
+    <Resource Name="String19" ID="112d970a-a360-4893-9fed-60589d2ed12c">
+      <Localisation Language="en-US" Translation="EJECT" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="NoFileSelected" ID="595a7137-7ac4-42dc-a467-c3519b24b687">
+      <Localisation Language="en-US" Translation="No file selected" Default="True" />
+      <Localisation Language="fr-FR" Translation="Aucun fichier sélectionné" />
+    </Resource>
+  </Resources>
+  <Resources Type="Images">
+    <Resource Name="Image1" ID="3c1e63b9-979e-45bb-892a-b6ca24295d1d">
+      <Localisation Language="en-US" Translation="Trash.png" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+    </Resource>
+    <Resource Name="France0" ID="deb3ec93-a514-4394-bb17-d56ad1bfe3ff">
+      <Localisation Language="en-US" Translation="France.png" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="en-GB" Translation="France.png" />
+    </Resource>
+    <Resource Name="GreatBritain0" ID="c774f434-276a-45d6-82a0-4376e27fc253">
+      <Localisation Language="en-US" Translation="GreatBritain.png" Default="True" />
+      <Localisation Language="fr-FR" Translation="" />
+      <Localisation Language="en-GB" Translation="GreatBritain.png" />
+    </Resource>
+  </Resources>
+</IagResources>

@@ -1,0 +1,27 @@
+[SLWD version=1.0]
+_EN=Variables
++GN=VAR	GVT=DefaultGroup
+++D=HMI_ButtonLight	N=Test_Btn1	G=VAR
+++D=BOOL	N=Btn	G=VAR
+++D=BOOL	N=Lamp	G=VAR
+++D=HMI_ButtonLight	N=Test_ES	G=VAR
+++D=BOOL	N=Btn_ES	G=VAR
+++D=BOOL	N=Lamp_ES	G=VAR
+++D=HMI_Switch_1ch	N=Switch_1	G=VAR
+++D=BOOL	N=Switch_in	G=VAR
+++D=BOOL	N=Reverse	G=VAR
+++D=BOOL	N=t1	G=VAR
+++D=BOOL	N=Lamp_Used	G=VAR
+++D=HMI_Switch_2ch	N=Switch_2	G=VAR
+++D=BOOL	N=In_1	G=VAR
+++D=BOOL	N=In_R	G=VAR
+++D=BOOL	N=In_L	G=VAR
+++D=BOOL	N=TestNeg	G=VAR
+++D=BOOL	N=t2	G=VAR
+++D=BYTE	N=Color	G=VAR
+++D=BOOL	N=T_1s	G=VAR
++GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
+++D=THE_HMI	N=HMI_Btn1	G=VAR_EXTERNAL
+++D=THE_HMI	N=HMI_Btn_ES	G=VAR_EXTERNAL
+++D=THE_HMI	N=HMI_Switch_1	G=VAR_EXTERNAL
+++D=THE_HMI	N=HMI_Switch_2	G=VAR_EXTERNAL

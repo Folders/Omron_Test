@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IagResources>
+  <Resources Type="Strings">
+    <Resource Name="S_State1" ID="c055b9d5-b3f1-42ba-93c2-18ea88fe25cf">
+      <Localisation Language="en-GB" Translation="State" Default="True" />
+      <Localisation Language="tr-TR" Translation="Durum" />
+      <Localisation Language="it-IT" Translation="Stato" />
+      <Localisation Language="es-ES" Translation="Estado" />
+      <Localisation Language="pt-PT" Translation="Estado" />
+      <Localisation Language="fr-CH" Translation="État" />
+      <Localisation Language="de-DE" Translation="Zustand" />
+      <Localisation Language="ru-RU" Translation="Штат" />
+      <Localisation Language="bg-BG" Translation="държава" />
+      <Localisation Language="sv-SE" Translation="Stat" />
+    </Resource>
+    <Resource Name="S_Variable1" ID="4853bb15-eceb-416f-9ee1-0ada7404cc82">
+      <Localisation Language="en-GB" Translation="Variable" Default="True" />
+      <Localisation Language="tr-TR" Translation="Değişken" />
+      <Localisation Language="it-IT" Translation="Variabile" />
+      <Localisation Language="es-ES" Translation="Variable" />
+      <Localisation Language="pt-PT" Translation="Variável" />
+      <Localisation Language="fr-CH" Translation="Variable" />
+      <Localisation Language="de-DE" Translation="Variabel" />
+      <Localisation Language="ru-RU" Translation="Переменная" />
+      <Localisation Language="bg-BG" Translation="Променлива" />
+      <Localisation Language="sv-SE" Translation="Variabel" />
+    </Resource>
+    <Resource Name="S_DigitalInputCard" ID="338a5582-5761-40d9-9920-1f4d5a4352e3">
+      <Localisation Language="en-GB" Translation="Digital Input Card" Default="True" />
+      <Localisation Language="tr-TR" Translation="Dijital Giriş Kartı" />
+      <Localisation Language="it-IT" Translation="Scheda di ingresso digitale" />
+      <Localisation Language="es-ES" Translation="Tarjeta de entrada digital" />
+      <Localisation Language="pt-PT" Translation="Cartão de entrada digital" />
+      <Localisation Language="fr-CH" Translation="Carte d'entrée numérique" />
+      <Localisation Language="de-DE" Translation="Digitale Eingangskarte" />
+      <Localisation Language="ru-RU" Translation="Цифровая карта ввода" />
+      <Localisation Language="bg-BG" Translation="Карта за цифров вход" />
+      <Localisation Language="sv-SE" Translation="Digital ingångskort" />
+    </Resource>
+    <Resource Name="S_DigitalOutputCard" ID="94cfca2e-418d-40a7-bc24-81b4c082f33e">
+      <Localisation Language="en-GB" Translation="Digital Output Card" Default="True" />
+      <Localisation Language="tr-TR" Translation="Dijital Çıkış Kartı" />
+      <Localisation Language="it-IT" Translation="Scheda di uscita digitale" />
+      <Localisation Language="es-ES" Translation="Tarjeta de salida digital" />
+      <Localisation Language="pt-PT" Translation="Cartão de saída digital" />
+      <Localisation Language="fr-CH" Translation="Carte de sortie numérique" />
+      <Localisation Language="de-DE" Translation="Digitale Ausgangskarte" />
+      <Localisation Language="ru-RU" Translation="Карта цифрового выхода" />
+      <Localisation Language="bg-BG" Translation="Карта за цифров изход" />
+      <Localisation Language="sv-SE" Translation="Digital utgångskort" />
+    </Resource>
+    <Resource Name="S_SafetyOutputCard2" ID="b9b22e6d-cfca-4c76-b01c-7c91506c7330">
+      <Localisation Language="en-GB" Translation="Safety Output Card" Default="True" />
+      <Localisation Language="tr-TR" Translation="Emniyet Çıkışı Kartı" />
+      <Localisation Language="it-IT" Translation="Scheda di uscita di sicurezza" />
+      <Localisation Language="es-ES" Translation="Tarjeta de salida de seguridad" />
+      <Localisation Language="pt-PT" Translation="Cartão de saída de segurança" />
+      <Localisation Language="fr-CH" Translation="Carte de sortie de sécurité" />
+      <Localisation Language="de-DE" Translation="Sicherheitsausgangskarte" />
+      <Localisation Language="ru-RU" Translation="Безопасная выходная карта" />
+      <Localisation Language="bg-BG" Translation="Изходна карта за безопасност" />
+      <Localisation Language="sv-SE" Translation="Säkerhetskort" />
+    </Resource>
+    <Resource Name="S_SafetyInputCard2" ID="7d9d74af-b24e-4acc-9107-9943e6cab7e3">
+      <Localisation Language="en-GB" Translation="Safety Input Card" Default="True" />
+      <Localisation Language="tr-TR" Translation="Güvenlik Giriş Kartı" />
+      <Localisation Language="it-IT" Translation="Scheda di ingresso di sicurezza" />
+      <Localisation Language="es-ES" Translation="Tarjeta de entrada de seguridad" />
+      <Localisation Language="pt-PT" Translation="Cartão de entrada de segurança" />
+      <Localisation Language="fr-CH" Translation="Carte d'entrée de sécurité" />
+      <Localisation Language="de-DE" Translation="Sicherheitseingangskarte" />
+      <Localisation Language="ru-RU" Translation="Безопасная входная карта" />
+      <Localisation Language="bg-BG" Translation="Карта за вход за безопасност" />
+      <Localisation Language="sv-SE" Translation="Säkerhetsingångskort" />
+    </Resource>
+    <Resource Name="String65" ID="115ddc91-67f7-42c8-bcd8-146e47d24652">
+      <Localisation Language="en-GB" Translation="I/O Power Supply Error Flag" Default="True" />
+      <Localisation Language="tr-TR" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+      <Localisation Language="pt-PT" Translation="" />
+      <Localisation Language="fr-CH" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="ru-RU" Translation="" />
+      <Localisation Language="bg-BG" Translation="" />
+      <Localisation Language="sv-SE" Translation="" />
+    </Resource>
+    <Resource Name="String79" ID="ba75e74c-b3e7-4e42-b952-228608c38543">
+      <Localisation Language="en-GB" Translation="Unit Normal Status" Default="True" />
+      <Localisation Language="tr-TR" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+      <Localisation Language="pt-PT" Translation="" />
+      <Localisation Language="fr-CH" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="ru-RU" Translation="" />
+      <Localisation Language="bg-BG" Translation="" />
+      <Localisation Language="sv-SE" Translation="" />
+    </Resource>
+    <Resource Name="String80" ID="2c31352b-e705-4270-8a44-2dd8ca65b999">
+      <Localisation Language="en-GB" Translation="Safety Output Terminal Status" Default="True" />
+      <Localisation Language="tr-TR" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+      <Localisation Language="pt-PT" Translation="" />
+      <Localisation Language="fr-CH" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="ru-RU" Translation="" />
+      <Localisation Language="bg-BG" Translation="" />
+      <Localisation Language="sv-SE" Translation="" />
+    </Resource>
+    <Resource Name="String133" ID="43a886e1-e217-49db-97b5-307725d5a47b">
+      <Localisation Language="en-GB" Translation="Safety Connection Status" Default="True" />
+      <Localisation Language="tr-TR" Translation="" />
+      <Localisation Language="it-IT" Translation="" />
+      <Localisation Language="es-ES" Translation="" />
+      <Localisation Language="pt-PT" Translation="" />
+      <Localisation Language="fr-CH" Translation="" />
+      <Localisation Language="de-DE" Translation="" />
+      <Localisation Language="ru-RU" Translation="" />
+      <Localisation Language="bg-BG" Translation="" />
+      <Localisation Language="sv-SE" Translation="" />
+    </Resource>
+  </Resources>
+  <Resources Type="FontSizes">
+    <Resource Name="FontSize" ID="e14cb932-023b-4134-9386-3c5ddd7640e5">
+      <Localisation Language="en-GB" Translation="14" Default="True" />
+      <Localisation Language="tr-TR" Translation="14" />
+      <Localisation Language="it-IT" Translation="14" />
+      <Localisation Language="es-ES" Translation="14" />
+      <Localisation Language="pt-PT" Translation="14" />
+      <Localisation Language="fr-CH" Translation="14" />
+      <Localisation Language="de-DE" Translation="14" />
+      <Localisation Language="ru-RU" Translation="14" />
+      <Localisation Language="bg-BG" Translation="14" />
+      <Localisation Language="sv-SE" Translation="14" />
+    </Resource>
+    <Resource Name="FontSize0" ID="3ba6b18f-2195-4a34-ad63-8fde59bf8829">
+      <Localisation Language="en-GB" Translation="20" Default="True" />
+      <Localisation Language="tr-TR" Translation="20" />
+      <Localisation Language="it-IT" Translation="20" />
+      <Localisation Language="es-ES" Translation="20" />
+      <Localisation Language="pt-PT" Translation="20" />
+      <Localisation Language="fr-CH" Translation="20" />
+      <Localisation Language="de-DE" Translation="20" />
+      <Localisation Language="ru-RU" Translation="20" />
+      <Localisation Language="bg-BG" Translation="20" />
+      <Localisation Language="sv-SE" Translation="20" />
+    </Resource>
+    <Resource Name="FontSize658" ID="6a65f851-69c2-4cfe-a518-b9ad46ebda56">
+      <Localisation Language="en-GB" Translation="14" Default="True" />
+      <Localisation Language="tr-TR" Translation="14" />
+      <Localisation Language="it-IT" Translation="14" />
+      <Localisation Language="es-ES" Translation="14" />
+      <Localisation Language="pt-PT" Translation="14" />
+      <Localisation Language="fr-CH" Translation="14" />
+      <Localisation Language="de-DE" Translation="14" />
+      <Localisation Language="ru-RU" Translation="14" />
+      <Localisation Language="bg-BG" Translation="12" />
+      <Localisation Language="sv-SE" Translation="14" />
+    </Resource>
+  </Resources>
+  <Resources Type="FontFamilies">
+    <Resource Name="FontFamily" ID="8b094b09-2576-42ff-9276-d2ae4f0c5aae">
+      <Localisation Language="en-GB" Translation="Segoe UI" Default="True" />
+      <Localisation Language="tr-TR" Translation="Segoe UI" />
+      <Localisation Language="it-IT" Translation="Segoe UI" />
+      <Localisation Language="es-ES" Translation="Segoe UI" />
+      <Localisation Language="pt-PT" Translation="Segoe UI" />
+      <Localisation Language="fr-CH" Translation="Segoe UI" />
+      <Localisation Language="de-DE" Translation="Segoe UI" />
+      <Localisation Language="ru-RU" Translation="Segoe UI" />
+      <Localisation Language="bg-BG" Translation="Segoe UI" />
+      <Localisation Language="sv-SE" Translation="Segoe UI" />
+    </Resource>
+  </Resources>
+  <Resources Type="FontStyles">
+    <Resource Name="FontStyle" ID="f8271d32-cd54-4c2c-a081-a9ac6fef30b7">
+      <Localisation Language="en-GB" Translation="Normal" Default="True" />
+      <Localisation Language="tr-TR" Translation="Normal" />
+      <Localisation Language="it-IT" Translation="Normal" />
+      <Localisation Language="es-ES" Translation="Normal" />
+      <Localisation Language="pt-PT" Translation="Normal" />
+      <Localisation Language="fr-CH" Translation="Normal" />
+      <Localisation Language="de-DE" Translation="Normal" />
+      <Localisation Language="ru-RU" Translation="Normal" />
+      <Localisation Language="bg-BG" Translation="Normal" />
+      <Localisation Language="sv-SE" Translation="Normal" />
+    </Resource>
+    <Resource Name="FontStyle7" ID="aae7447a-fa4f-41fa-b6b2-dbc185f21549">
+      <Localisation Language="en-GB" Translation="Bold" Default="True" />
+      <Localisation Language="tr-TR" Translation="Bold" />
+      <Localisation Language="it-IT" Translation="Bold" />
+      <Localisation Language="es-ES" Translation="Bold" />
+      <Localisation Language="pt-PT" Translation="Bold" />
+      <Localisation Language="fr-CH" Translation="Bold" />
+      <Localisation Language="de-DE" Translation="Bold" />
+      <Localisation Language="ru-RU" Translation="Bold" />
+      <Localisation Language="bg-BG" Translation="Bold" />
+      <Localisation Language="sv-SE" Translation="Bold" />
+    </Resource>
+    <Resource Name="FontStyle10" ID="2dfee11d-fd7d-4ae7-bd58-0d1ec0b0138e">
+      <Localisation Language="en-GB" Translation="BoldItalic" Default="True" />
+      <Localisation Language="tr-TR" Translation="BoldItalic" />
+      <Localisation Language="it-IT" Translation="BoldItalic" />
+      <Localisation Language="es-ES" Translation="BoldItalic" />
+      <Localisation Language="pt-PT" Translation="BoldItalic" />
+      <Localisation Language="fr-CH" Translation="BoldItalic" />
+      <Localisation Language="de-DE" Translation="BoldItalic" />
+      <Localisation Language="ru-RU" Translation="BoldItalic" />
+      <Localisation Language="bg-BG" Translation="BoldItalic" />
+      <Localisation Language="sv-SE" Translation="BoldItalic" />
+    </Resource>
+  </Resources>
+</IagResources>
