@@ -3,7 +3,7 @@
   <Entity type="Solution" subtype="" id="55aa2ac1-2239-47fe-b692-02dad282421d" name="Test HMI" version="0" dateCreated="04/19/2022 10:06:45" trackingId="8431d72d-9602-4802-9b2a-3c422e5636da">
     <AccessInfos />
     <ChildEntities>
-      <Entity type="SolutionCustomColors" subtype="" id="b5adb53a-58b5-43bc-9a39-b9a1cc38e68a" name="" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="04/19/2022 10:06:45" trackingId="501ccdd7-8549-4c25-bfaf-5dfc861a0cf2">
+      <Entity type="SolutionCustomColors" subtype="" id="b5adb53a-58b5-43bc-9a39-b9a1cc38e68a" name="" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="07/04/2023 12:57:11" trackingId="501ccdd7-8549-4c25-bfaf-5dfc861a0cf2" hash="bb5d09a2ef8a8a9d928887fc101a9db0">
         <AccessInfos />
         <ChildEntities />
       </Entity>
@@ -31,7 +31,7 @@
         <AccessInfos />
         <ChildEntities />
       </Entity>
-      <Entity type="Device" subtype="NA" id="8b864637-73ac-4429-8a1b-055ed8d4ef63" name="HMI_NA5_0" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="06/29/2023 13:53:58" trackingId="f506d065-c653-4e29-a041-8bd31b1deb98" DN="HMI_NA5_0" hash="fc5c3763731d1f95e94f7080286d97d4" DHS="96e3e4e65b86c68f340ded9c29cb9a2f" TH="4b9953e9336dd2905ead9a7765bf1d0a">
+      <Entity type="Device" subtype="NA" id="8b864637-73ac-4429-8a1b-055ed8d4ef63" name="HMI_NA5_0" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="06/29/2023 13:53:58" trackingId="f506d065-c653-4e29-a041-8bd31b1deb98" DN="HMI_NA5_0" hash="fc5c3763731d1f95e94f7080286d97d4" DHS="b1fde2fea6268409bef470187dab0f5a" TH="eec2341d809c5acc1841dae6c845efc2">
         <AccessInfos />
         <ChildEntities>
           <Entity type="Watch" subtype="" id="0e1847f0-e55c-4384-b8b5-98a23867a7d6" name="Watch" version="0" dateCreated="04/19/2022 10:06:45" trackingId="896f58c4-7649-4012-b8d6-d3085a56f5ce">
@@ -211,7 +211,7 @@
               <Entity type="HmiPagesGroup" subtype="SubPagesGroup" id="081fd07d-7691-46fd-90ed-a224b7ba4e2c" name="Users_Pages" version="0" dateCreated="11/24/2022 11:33:30" dateLastModified="11/24/2022 17:59:52" trackingId="fdbeaf39-000a-41e5-849c-0fbb0d204214" DN="Users_Pages">
                 <AccessInfos />
                 <ChildEntities>
-                  <Entity type="HmiPage" subtype="GraphicalPage" id="ea8a6f3e-6963-465b-b5e7-9e8ec6200e21" name="Users_Main" version="0" dateCreated="03/29/2017 11:08:30" dateLastModified="06/29/2023 16:01:20" trackingId="6d1ce129-1a69-4879-99c4-dd14994e0613" hash="61487270eae9841dddeb8316de5b221f">
+                  <Entity type="HmiPage" subtype="GraphicalPage" id="ea8a6f3e-6963-465b-b5e7-9e8ec6200e21" name="Users_Main" version="0" dateCreated="03/29/2017 11:08:30" dateLastModified="07/04/2023 15:31:52" trackingId="6d1ce129-1a69-4879-99c4-dd14994e0613" hash="d092a9d2aec2fbbd982d463671f0e420">
                     <AccessInfos />
                     <ChildEntities>
                       <Entity type="HmiPage" subtype="VisualBasicPage" id="d612619c-938c-4f6e-a907-92eee9e21715" name="Users_Main.vb" version="0" dateCreated="03/29/2017 11:08:30" dateLastModified="11/29/2022 08:42:37" trackingId="67c6167d-e323-4f72-9075-10d7d5fffc3d" hash="983786ecd64c029fa2aad59acc7b4757">
@@ -220,10 +220,10 @@
                       </Entity>
                     </ChildEntities>
                   </Entity>
-                  <Entity type="HmiPage" subtype="GraphicalPage" id="f7618d30-507b-4416-8be8-0d9003319741" name="Users_Edit" version="0" dateCreated="05/16/2017 09:51:00" dateLastModified="11/29/2022 10:05:33" trackingId="cf47573f-c897-42fa-9228-d2970939eb49" hash="6c810c2f62944bc40ae76cf5d4ad770d">
+                  <Entity type="HmiPage" subtype="GraphicalPage" id="f7618d30-507b-4416-8be8-0d9003319741" name="Users_Edit" version="0" dateCreated="05/16/2017 09:51:00" dateLastModified="07/04/2023 15:31:52" trackingId="cf47573f-c897-42fa-9228-d2970939eb49" hash="0d052833fce5d78d27469babb426ff7c">
                     <AccessInfos />
                     <ChildEntities>
-                      <Entity type="HmiPage" subtype="VisualBasicPage" id="f24f3d4b-a805-4c8d-87cb-430390f19bb5" name="Users_Edit.vb" version="0" dateCreated="05/16/2017 09:51:00" dateLastModified="07/04/2023 09:38:43" trackingId="6be2f2e3-3a93-417a-a858-d6e841b7bd32" hash="891e045b6ca67ffd8d5b06ebf9bc9fe4">
+                      <Entity type="HmiPage" subtype="VisualBasicPage" id="f24f3d4b-a805-4c8d-87cb-430390f19bb5" name="Users_Edit.vb" version="0" dateCreated="05/16/2017 09:51:00" dateLastModified="07/04/2023 16:49:49" trackingId="6be2f2e3-3a93-417a-a858-d6e841b7bd32" hash="c8529114d372a082c2c5404213f1e51d">
                         <AccessInfos />
                         <ChildEntities />
                       </Entity>
@@ -286,7 +286,7 @@
             <AccessInfos />
             <ChildEntities />
           </Entity>
-          <Entity type="SecuritySettings" subtype="" id="fd353970-b099-421c-a2a8-1326fe252f0d" name="Security Settings" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="04/19/2022 10:06:45" trackingId="c3d76474-8cea-4d44-b82d-5a249327159a" DN="Security Settings" hash="7790006e8173e9cd15b1ccfe64d07b68">
+          <Entity type="SecuritySettings" subtype="" id="fd353970-b099-421c-a2a8-1326fe252f0d" name="Security Settings" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="07/04/2023 12:57:11" trackingId="c3d76474-8cea-4d44-b82d-5a249327159a" DN="Security Settings" hash="f75f09000ff83e31069e7bc6c5a77a4b">
             <AccessInfos />
             <ChildEntities />
           </Entity>
@@ -352,7 +352,7 @@
                   <Entity type="HmiKeypad" subtype="GraphicalPage" id="5b223250-6b08-4a9d-89d9-1b3db1e39126" name="QwertyKeypad0" version="0" dateCreated="05/18/2022 17:34:30" dateLastModified="08/22/2022 16:37:58" trackingId="d50f32e9-5015-4222-8eb7-f85f998cb27f" DN="QwertyKeypad0" hash="00ae95f17755418148c273df684d58e8">
                     <AccessInfos />
                     <ChildEntities>
-                      <Entity type="HmiKeypad" subtype="VisualBasicPage" id="4dffd510-c7e9-4f25-91d5-4cef9139c384" name="QwertyKeypad0.vb" version="0" dateCreated="05/18/2022 17:34:30" dateLastModified="08/22/2022 17:30:58" trackingId="b4607c46-aa01-4319-915d-f9bc0efb9af6" hash="6cc4fde4f43e68469bf81f7012fa785c">
+                      <Entity type="HmiKeypad" subtype="VisualBasicPage" id="4dffd510-c7e9-4f25-91d5-4cef9139c384" name="QwertyKeypad0.vb" version="0" dateCreated="05/18/2022 17:34:30" dateLastModified="07/04/2023 10:39:10" trackingId="b4607c46-aa01-4319-915d-f9bc0efb9af6" hash="a8ba5302710f020c07dfa0ee7effe7cc">
                         <AccessInfos />
                         <ChildEntities />
                       </Entity>
@@ -401,7 +401,7 @@
             <AccessInfos />
             <ChildEntities />
           </Entity>
-          <Entity type="GlobalSubroutinesGroupEntity" subtype="GlobalSubroutinesGroupEntitySubtype" id="a40d7c91-a495-4e2c-bb59-7b28426be39f" name="Global Subroutines" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="05/02/2023 14:21:13" trackingId="5e88dc1e-e91a-4678-a246-0e825a1c0750" DN="Global Subroutines">
+          <Entity type="GlobalSubroutinesGroupEntity" subtype="GlobalSubroutinesGroupEntitySubtype" id="a40d7c91-a495-4e2c-bb59-7b28426be39f" name="Global Subroutines" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="07/04/2023 16:20:30" trackingId="5e88dc1e-e91a-4678-a246-0e825a1c0750" DN="Global Subroutines">
             <AccessInfos />
             <ChildEntities>
               <Entity type="GlobalSubroutinesEntity" subtype="GlobalSubroutinesSubtype" id="e798db38-5eb2-4dd0-987f-d31ec0aeefe6" name="S_Recipe" version="0" dateCreated="05/11/2017 10:08:28" dateLastModified="05/02/2023 14:21:13" trackingId="ca9bade7-d35d-4015-af26-5437d265b186" DN="S_Recipe" hash="3ebde056206b8ad64db6a5db8395abaa">
@@ -412,7 +412,7 @@
                 <AccessInfos />
                 <ChildEntities />
               </Entity>
-              <Entity type="GlobalSubroutinesEntity" subtype="GlobalSubroutinesSubtype" id="85fda915-7705-4334-939d-45899b7b2cdf" name="S_Users" version="0" dateCreated="08/22/2022 11:11:15" dateLastModified="12/26/2022 16:28:43" trackingId="61a15b91-25e4-4a17-bf7d-7eafd41ae279" DN="S_Users" hash="242e55c2562a3e5235b562dfe78ccad6">
+              <Entity type="GlobalSubroutinesEntity" subtype="GlobalSubroutinesSubtype" id="85fda915-7705-4334-939d-45899b7b2cdf" name="S_Users" version="0" dateCreated="08/22/2022 11:11:15" dateLastModified="07/04/2023 16:20:30" trackingId="61a15b91-25e4-4a17-bf7d-7eafd41ae279" DN="S_Users" hash="20603dd0c9c42851f86db57f7969dade">
                 <AccessInfos />
                 <ChildEntities />
               </Entity>
@@ -433,11 +433,11 @@
           <Entity type="ResourceGroup" subtype="" id="16416ca1-0fd5-436c-b72c-72ab3a7c93c6" name="Resources" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="04/19/2022 17:38:54" trackingId="a435fd0e-6328-4c13-8bf8-b6509b3380f3" DN="Resources">
             <AccessInfos />
             <ChildEntities>
-              <Entity type="LocalisationResources" subtype="" id="3dba8116-a3cb-46ca-b0cc-40f27da4a0e2" name="Root" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="06/29/2023 14:24:12" trackingId="6b0cc7d3-a9ec-43b3-86d5-5c7ff2bf67f5" DN="Root" hash="9d133df4aebb37a87ad42a0379509229">
+              <Entity type="LocalisationResources" subtype="" id="3dba8116-a3cb-46ca-b0cc-40f27da4a0e2" name="Root" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="07/04/2023 12:57:11" trackingId="6b0cc7d3-a9ec-43b3-86d5-5c7ff2bf67f5" DN="Root" hash="7a81b2ff60844360cb26fbe7a6e4a3c6">
                 <AccessInfos />
                 <ChildEntities />
               </Entity>
-              <Entity type="LocalisationResources" subtype="" id="16e24b6b-48e8-4218-90d6-7cbf4bb6132f" name="THE" version="0" dateCreated="04/19/2022 17:37:44" dateLastModified="06/29/2023 14:24:12" trackingId="c9c233c4-6f38-4ff7-be7f-603db2c01c30" DN="THE" hash="b7671cc4e9202f0c0eb768c6c29d068e">
+              <Entity type="LocalisationResources" subtype="" id="16e24b6b-48e8-4218-90d6-7cbf4bb6132f" name="THE" version="0" dateCreated="04/19/2022 17:37:44" dateLastModified="07/04/2023 12:57:11" trackingId="c9c233c4-6f38-4ff7-be7f-603db2c01c30" DN="THE" hash="dd0dc9edb6c7108044f645b313cc94de">
                 <AccessInfos />
                 <ChildEntities />
               </Entity>
@@ -810,7 +810,7 @@
             <AccessInfos />
             <ChildEntities />
           </Entity>
-          <Entity type="IagResourceFileReferences" subtype="" id="fc98e8fd-c20f-4ada-94a8-af024eafd05e" name="" version="1" dateCreated="05/10/2022 13:44:45" dateLastModified="06/29/2023 14:24:12" trackingId="8d32fcdd-7246-45d6-9278-31e77043b119" hash="2eb0243799ca458eb5c4071e63ced6b9">
+          <Entity type="IagResourceFileReferences" subtype="" id="fc98e8fd-c20f-4ada-94a8-af024eafd05e" name="" version="1" dateCreated="05/10/2022 13:44:45" dateLastModified="07/04/2023 12:57:11" trackingId="8d32fcdd-7246-45d6-9278-31e77043b119" hash="55bbdd660468db6fa1a7cdda4fb15a7f">
             <AccessInfos />
             <ChildEntities />
           </Entity>
@@ -1416,7 +1416,7 @@
         <AccessInfos />
         <ChildEntities />
       </Entity>
-      <Entity type="FileReferences" subtype="" id="154c9dd1-d6d3-40a2-8bfa-cba467b8794e" name="" version="1" dateCreated="05/10/2022 13:44:45" dateLastModified="06/29/2023 14:24:12" trackingId="65a1f361-f9e2-4a07-ba5d-c0f47a47cb12" hash="f79d8f841a9dc8a5894742588416efa3">
+      <Entity type="FileReferences" subtype="" id="154c9dd1-d6d3-40a2-8bfa-cba467b8794e" name="" version="1" dateCreated="05/10/2022 13:44:45" dateLastModified="07/04/2023 12:57:11" trackingId="65a1f361-f9e2-4a07-ba5d-c0f47a47cb12" hash="0966c24c181e383a2aef2f520a4888ef">
         <AccessInfos />
         <ChildEntities />
       </Entity>

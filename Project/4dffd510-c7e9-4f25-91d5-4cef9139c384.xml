@@ -3,7 +3,6 @@ End Class</HiddenFooter><HiddenHeader>Partial Public Class QwertyKeypad0&#xD;
 </HiddenHeader><SerialData i:nil="true"/><SerialDeviceHmiId i:nil="true"/><SerialScaleData i:nil="true"/><Text>&#xD;
 	Public Shared Event OnEnter(val As String)&#xD;
 &#xD;
-&#xD;
     #Region "Fields"&#xD;
     Private shift As Boolean = False&#xD;
     &#xD;
