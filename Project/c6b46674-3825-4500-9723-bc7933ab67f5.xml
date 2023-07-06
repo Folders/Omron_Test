@@ -30,7 +30,7 @@ Sub FillData&#xD;
 		' Read first line with the name, and save the path&#xD;
 		view(i) = GetRecipeIngredientValue("Rcp_SLT", str, "Name_User").ToString&#xD;
 		&#xD;
-		i = i + 1&#xD;
+		i += 1&#xD;
 	Next&#xD;
 	&#xD;
 	Me.List0.SetList(view, ary)&#xD;
