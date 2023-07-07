@@ -4,7 +4,7 @@ End Class</HiddenFooter><HiddenHeader>Partial Public Class Users_Edit&#xD;
 Dim validationChecks As New System.Collections.Generic.Dictionary(Of Func(Of Boolean), Action) From {&#xD;
     {AddressOf S_Users.CheckPasswordLength, AddressOf PasswordError},&#xD;
     {AddressOf S_Users.CheckLabel, AddressOf LabelError},&#xD;
-    {AddressOf S_Users.CheckCodeLength, AddressOf CodeLengthError},&#xD;
+    {AddressOf S_Users.CheckUserCodeLength, AddressOf CodeLengthError},&#xD;
     {AddressOf S_Users.CheckUserCodeUnique, AddressOf CodeNotUniqueError}&#xD;
 }&#xD;
 &#xD;

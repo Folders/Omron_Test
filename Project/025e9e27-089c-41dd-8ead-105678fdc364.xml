@@ -216,5 +216,10 @@
       <DataType Name="Deletable" BaseType="Boolean" ArrayType="" Length="" InitialValue="" EnumValue="" Comment="Selected user can be deleted" OffsetChannel="" OffsetBit="" IsControllerDefinedType="false" Order="0" OffsetType="" Id="dc8ee118-f9ea-4317-933f-41447b26a00c" />
       <DataType Name="Editable" BaseType="Boolean" ArrayType="" Length="" InitialValue="" EnumValue="" Comment="Selected user can be edited" OffsetChannel="" OffsetBit="" IsControllerDefinedType="false" Order="0" OffsetType="" Id="bcd26d73-e894-49a9-83ad-ac7134e10a54" />
     </DataType>
+    <DataType Name="User_Type" BaseType="ENUM" ArrayType="" Length="" InitialValue="" EnumValue="" Comment="" OffsetChannel="" OffsetBit="" IsControllerDefinedType="false" Order="0" OffsetType="" Id="e3f84914-1a25-4c60-a372-78740b67b7c2">
+      <DataType Name="ghjgh" BaseType="Integer" ArrayType="" Length="" InitialValue="" EnumValue="10" Comment="" OffsetChannel="" OffsetBit="" IsControllerDefinedType="false" Order="0" OffsetType="" Id="9337e663-91c6-4cdd-b993-80e9295d4689" />
+      <DataType Name="ghjgh_Copy" BaseType="DINT" ArrayType="" Length="" InitialValue="" EnumValue="20" Comment="" OffsetChannel="" OffsetBit="" IsControllerDefinedType="false" Order="0" OffsetType="" Id="d9210563-d4fc-44fb-b32c-82145436031f" />
+      <DataType Name="ghjgh_Copy2" BaseType="DINT" ArrayType="" Length="" InitialValue="" EnumValue="30" Comment="" OffsetChannel="" OffsetBit="" IsControllerDefinedType="false" Order="0" OffsetType="" Id="13eed321-fa1e-4a9e-aaf5-630571ccffe2" />
+    </DataType>
   </DataType>
 </data>
