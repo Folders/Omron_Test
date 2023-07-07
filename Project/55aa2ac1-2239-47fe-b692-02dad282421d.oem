@@ -31,7 +31,7 @@
         <AccessInfos />
         <ChildEntities />
       </Entity>
-      <Entity type="Device" subtype="NA" id="8b864637-73ac-4429-8a1b-055ed8d4ef63" name="HMI_NA5_0" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="06/29/2023 13:53:58" trackingId="f506d065-c653-4e29-a041-8bd31b1deb98" DN="HMI_NA5_0" hash="fc5c3763731d1f95e94f7080286d97d4" DHS="08f631751ae13af3bf42f38e4b194b66" TH="9049c6ef0837ca640f7347880298133e">
+      <Entity type="Device" subtype="NA" id="8b864637-73ac-4429-8a1b-055ed8d4ef63" name="HMI_NA5_0" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="06/29/2023 13:53:58" trackingId="f506d065-c653-4e29-a041-8bd31b1deb98" DN="HMI_NA5_0" hash="fc5c3763731d1f95e94f7080286d97d4" DHS="1e77a3ba8c4dce0c1ce92478a0e81266" TH="d4216f9d28a21537bb4cd6ca1faf5e58">
         <AccessInfos />
         <ChildEntities>
           <Entity type="Watch" subtype="" id="0e1847f0-e55c-4384-b8b5-98a23867a7d6" name="Watch" version="0" dateCreated="04/19/2022 10:06:45" trackingId="896f58c4-7649-4012-b8d6-d3085a56f5ce">
@@ -252,7 +252,7 @@
               <Entity type="HmiPage" subtype="GraphicalPage" id="9fff84f3-034c-4f47-a8b2-3f33808fbf32" name="List_IAG" version="0" dateCreated="06/29/2023 13:58:35" dateLastModified="06/29/2023 16:01:20" trackingId="543eb8ff-b324-480f-b15a-1e97aa1fffae" hash="327af8d7ab2c9fa38f7e487d4672f211">
                 <AccessInfos />
                 <ChildEntities>
-                  <Entity type="HmiPage" subtype="VisualBasicPage" id="5e1609d6-1f6f-4520-bf89-fb98e920b85e" name="List_IAG.vb" version="0" dateCreated="06/29/2023 13:58:35" dateLastModified="07/06/2023 16:51:07" trackingId="05ab8a2f-1bec-4e4b-9648-fcc13ac97e89" hash="def6779e2c1feb35ca10c8812fc95dae">
+                  <Entity type="HmiPage" subtype="VisualBasicPage" id="5e1609d6-1f6f-4520-bf89-fb98e920b85e" name="List_IAG.vb" version="0" dateCreated="06/29/2023 13:58:35" dateLastModified="07/07/2023 09:24:13" trackingId="05ab8a2f-1bec-4e4b-9648-fcc13ac97e89" hash="c877e551bab31fca69bb1f77c43804ae">
                     <AccessInfos />
                     <ChildEntities />
                   </Entity>

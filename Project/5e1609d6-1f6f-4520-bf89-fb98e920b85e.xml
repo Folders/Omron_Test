@@ -122,7 +122,6 @@ Private Sub OnSelect&#xD;
 	&#xD;
 End Sub&#xD;
 &#xD;
-&#xD;
 ''' &lt;summary&gt;&#xD;
 ''' Text of selected item. Empty if any item is selected.&#xD;
 ''' &lt;/summary&gt;&#xD;
