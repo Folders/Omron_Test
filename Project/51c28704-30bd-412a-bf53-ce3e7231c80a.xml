@@ -9,6 +9,7 @@
   </GeneralSettingsData>
   <Programs>
     <AssociatedProgramData ProgramName="HMI_Test" InstanceName="HMI_Test" IniFileTrackingId="6d8d9462e63a41a194bd8f42f6b8ff6e" StartupSetting="TRUE" SequenceNumber="1" IsDebugProgram="false" />
+    <AssociatedProgramData ProgramName="State_Test" InstanceName="State_Test" IniFileTrackingId="0def6fcba11b4ea5998491d29739dba0" StartupSetting="TRUE" SequenceNumber="2" IsDebugProgram="false" />
   </Programs>
   <RefreshUnitIds>
     <RefreshUnitId RefreshUnitId="1b8ae03d-ea09-4b10-a081-3b1305fa30a6" />

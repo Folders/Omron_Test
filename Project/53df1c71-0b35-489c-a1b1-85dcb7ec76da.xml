@@ -1,6 +1,17 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR_GLOBAL	GVT=GlobalNamespaceGroup
+++D=THE_STATE	N=MyState	G=VAR_GLOBAL
+++D=BOOL	N=Test_Reset	G=VAR_GLOBAL
+++D=BOOL	N=Test_Start	G=VAR_GLOBAL
+++D=BOOL	N=Test_Stop	G=VAR_GLOBAL
+++D=BOOL	N=Test_Hold	G=VAR_GLOBAL
+++D=BOOL	N=Test_UnHold	G=VAR_GLOBAL
+++D=BOOL	N=Test_Suspend	G=VAR_GLOBAL
+++D=BOOL	N=Test_UnSuspend	G=VAR_GLOBAL
+++D=BOOL	N=Test_Abort	G=VAR_GLOBAL
+++D=BOOL	N=Test_Clear	G=VAR_GLOBAL
+++D=BOOL	N=Test_SC	G=VAR_GLOBAL
 ++D=SLT_Machines	N=SLT	G=VAR_GLOBAL
 ++D=SLT_Opt	N=Opt	G=VAR_GLOBAL
 ++D=THE_HMI	N=HMI_Btn1	G=VAR_GLOBAL

@@ -1,6 +1,19 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
+++D=State_Config	N=StateConfig	G=VAR
+++D=StateCmd_SC	N=NextState	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
 ++D=BOOL	N=N1_Input_Bit_00	G=VAR_EXTERNAL
 ++D=BOOL	N=SALUT	G=VAR_EXTERNAL
+++D=THE_STATE	N=MyState	G=VAR_EXTERNAL
+++D=BOOL	N=Test_Clear	G=VAR_EXTERNAL
+++D=BOOL	N=Test_Reset	G=VAR_EXTERNAL
+++D=BOOL	N=Test_Start	G=VAR_EXTERNAL
+++D=BOOL	N=Test_Stop	G=VAR_EXTERNAL
+++D=BOOL	N=Test_Abort	G=VAR_EXTERNAL
+++D=BOOL	N=Test_Hold	G=VAR_EXTERNAL
+++D=BOOL	N=Test_UnHold	G=VAR_EXTERNAL
+++D=BOOL	N=Test_Suspend	G=VAR_EXTERNAL
+++D=BOOL	N=Test_UnSuspend	G=VAR_EXTERNAL
+++D=BOOL	N=Test_SC	G=VAR_EXTERNAL
