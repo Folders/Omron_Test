@@ -31,7 +31,7 @@
         <AccessInfos />
         <ChildEntities />
       </Entity>
-      <Entity type="Device" subtype="NA" id="8b864637-73ac-4429-8a1b-055ed8d4ef63" name="HMI_NA5_0" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="06/29/2023 13:53:58" trackingId="f506d065-c653-4e29-a041-8bd31b1deb98" DN="HMI_NA5_0" hash="fc5c3763731d1f95e94f7080286d97d4" DHS="4016aad373f712429f49aea69e72a0c1" TH="d331fc65e0318330af7d5dfbecf1e230">
+      <Entity type="Device" subtype="NA" id="8b864637-73ac-4429-8a1b-055ed8d4ef63" name="HMI_NA5_0" version="0" dateCreated="04/19/2022 10:06:45" dateLastModified="06/29/2023 13:53:58" trackingId="f506d065-c653-4e29-a041-8bd31b1deb98" DN="HMI_NA5_0" hash="fc5c3763731d1f95e94f7080286d97d4" DHS="688927e1c0775d68046d4c8af1c7dd8f" TH="84e96607ef1fae9fba437ef410e76a90">
         <AccessInfos />
         <ChildEntities>
           <Entity type="Watch" subtype="" id="0e1847f0-e55c-4384-b8b5-98a23867a7d6" name="Watch" version="0" dateCreated="04/19/2022 10:06:45" trackingId="896f58c4-7649-4012-b8d6-d3085a56f5ce">
@@ -261,7 +261,7 @@
               <Entity type="HmiPagesGroup" subtype="SubPagesGroup" id="dd74da38-ee13-4293-a70c-288e051697d8" name="Test_FB" version="0" dateCreated="09/05/2023 17:34:40" dateLastModified="09/05/2023 17:38:20" trackingId="28cb4773-b825-4b45-a4ce-55c447638caa" DN="Test_FB">
                 <AccessInfos />
                 <ChildEntities>
-                  <Entity type="HmiPage" subtype="GraphicalPage" id="e086d2f9-2510-47ce-9850-cca30ce4acd1" name="Test_State" version="0" dateCreated="09/05/2023 17:34:50" dateLastModified="09/05/2023 17:41:58" trackingId="ee298fc7-1d37-463e-955f-babe708079d5" hash="a4ac1aca71ea675866e98092d76e485b">
+                  <Entity type="HmiPage" subtype="GraphicalPage" id="e086d2f9-2510-47ce-9850-cca30ce4acd1" name="Test_State" version="0" dateCreated="09/05/2023 17:34:50" dateLastModified="01/20/2025 11:51:58" trackingId="ee298fc7-1d37-463e-955f-babe708079d5" hash="8c3397f8c26a2872fdcd62beb8db3515">
                     <AccessInfos />
                     <ChildEntities>
                       <Entity type="HmiPage" subtype="VisualBasicPage" id="d4927e0e-a891-4cf8-b0a8-75c9437870be" name="Test_State.vb" version="0" dateCreated="09/05/2023 17:34:50" dateLastModified="09/05/2023 17:38:20" trackingId="f8c1a4a8-55b1-4c95-977e-892014a450e7" hash="3ea013dda6f7860f1c90b1453a079506">
